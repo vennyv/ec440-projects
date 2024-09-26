@@ -1,4 +1,4 @@
-# EC440-projects
+# EC440 Projects
 
 Welcome to my operating systems portfolio! This repo is a collection of hands-on projects where I dive into the core concepts that make operating systems tick. Each project tackles a key part of how modern OSes work, from running programs to managing memory and files.
 
